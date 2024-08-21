@@ -1,6 +1,7 @@
 import os
-from src.filesystem.modulecompress import is_compressed, extract_file
+from src.filesystem.module_compress import is_compressed, extract_file
 import shutil
+
 def count_files_in_directory(directory):
     """Conta todos os arquivos em um diretório, incluindo subdiretórios."""
     count = 0
@@ -10,7 +11,6 @@ def count_files_in_directory(directory):
 
 def process_directory(directory, processed_dir , processed_files):
     """Processa todos os arquivos em um diretório, descompactando conforme necessário."""
-
     for root, dirs, files in os.walk(directory):
         for file in files:
             file_path = os.path.join(root, file)
