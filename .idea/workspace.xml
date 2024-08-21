@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5956766-18e4-43f0-90d3-d733745edc27" name="Changes" comment="Segunda versão da estrutura">
-      <change afterPath="$PROJECT_DIR$/src/logging/all_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/etl/process_compressfiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/etl/process_compressed_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filesystem/modulecompress.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/filesystem/module_compress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/filesystem/modulefiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/filesystem/module_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="e5956766-18e4-43f0-90d3-d733745edc27" name="Changes" comment="Segunda versão da estrutura" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,21 +42,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.all_function.executor": "Run",
-    "Python.checkLanding.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.module_files.executor": "Run",
-    "Python.modulecompress.executor": "Run",
-    "Python.modulefiles.executor": "Run",
-    "Python.sparktest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/so_me/PycharmProjects/IngestionPipeline/src/etl",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.all_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkLanding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module_files.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modulecompress.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modulefiles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sparktest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/so_me/PycharmProjects/IngestionPipeline/src/etl&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\so_me\PycharmProjects\IngestionPipeline\src\etl" />
