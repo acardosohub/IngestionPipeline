@@ -3,6 +3,7 @@ import src.logging.all_function as log
 
 # Diretório inicial a ser processado
 #landing_path = '/dataLake/0.landing/'
+print("Definindo as variáveis")
 initial_directory = '/dataLake/0.landing/'
 processed_directory = '/dataLake/5.Processed/'
 processed_files = set()
